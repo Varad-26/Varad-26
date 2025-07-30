@@ -56,6 +56,14 @@
 </p>
 
 ---
+## 🧩 Fun Facts
+- 🧪 Writing test cases like a coder, thinking like a user.
+- 💬 Ask me about **Selenium**, **Cypress**, **Bug Reporting** or **Test Cases** 
+- 🧠 I believe: *Every failed test teaches something new.*
+- 📌 Currently working on: **Automation Projects**
+- 📝 I write notes and mindmaps to simplify complex testing concepts
+
+---
 
 ## 🧪 Currently Practicing
 
