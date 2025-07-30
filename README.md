@@ -66,12 +66,11 @@
 ---
 ### 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:varadx02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/varadpatil9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Varad-26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varad-26)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varadpatil9)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varadx02@gmail.com)
 
----
+<img src="https://komarev.com/ghpvc/?username=Varad-26&label=Profile%20views&color=0e75b6&style=flat" alt="Varad-26" />
+
 
 <p align="center">✨ “Thanks for Visiting!,🔍 Let’s find and fix some Bugs together!” ✨</p>
