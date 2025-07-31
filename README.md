@@ -44,7 +44,8 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Varad-26&theme=tokyonight" alt="Varad's GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Varad-26&theme=default)](https://git.io/streak-stats)
+
 </p>
 
 <p align="center">
