@@ -44,12 +44,11 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Varad-26&theme=default)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com/?user=Varad-26&theme=tokyonight" alt="Varad's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varad-26&show_icons=true&theme=tokyonight" alt="Atul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Varad-26&show_icons=true&theme=tokyonight" alt="Varad's GitHub Stats" />
 </p>
 
 <p align="center">
