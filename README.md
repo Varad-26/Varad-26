@@ -44,6 +44,10 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Varad-26/Varad-26/output/snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Varad-26&theme=tokyonight" alt="Varad's GitHub Streak" />
 </p>
 
